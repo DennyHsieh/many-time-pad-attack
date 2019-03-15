@@ -1,5 +1,5 @@
-# many-time-pad-attack
-Decrypt the challenge ciphertext which was encrypted by one time pad
+# Never Use One Time Pad Twice
+Decrypt the challenge cipher text which was encrypted by one time pad.
 
 ## Description
 All explanations are annotated in the "decrypt.py" code.
